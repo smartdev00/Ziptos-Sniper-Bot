@@ -12,7 +12,6 @@ const mainText = "👋Hi, there! \n 👉This is 🔫Ziptos Sniper Bot on Aptos B
 const addSnipeText = `
 👍 Great! Ready to start snipe.
 👉 Click start`;
-
 /**
  * 
  * @param {string} address The newly generated wallet address
